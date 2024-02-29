@@ -3,8 +3,13 @@ This project analyzed the performance of four commonly used sorting algorithms: 
 Example:
 
 Enter Sorting options:
+
 Selection // Options can be Selection, insertion, Merge, quick and noSort.
+
 //Also, SeLeCtion is the valid option.
+
 Enter array:
+
 113 23 1 109 4 102 7 105 100 107 // Always has ten integer elements.
+
 ABS:2, Min=100, Max=102 //print abs difference, minimum of pair, maximum of pair.
